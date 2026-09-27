@@ -1,0 +1,19 @@
+# ninja log v7
+34	208	8122060755661913	chess_autogen/timestamp	51abbce02abc117a
+34	208	8122060755661913	chess_autogen/mocs_compilation.cpp	51abbce02abc117a
+34	208	8122060755661913	C:/Users/Admin/vsc-workspace/cpp_projects/chess/build/chess_autogen/timestamp	51abbce02abc117a
+34	208	8122060755661913	C:/Users/Admin/vsc-workspace/cpp_projects/chess/build/chess_autogen/mocs_compilation.cpp	51abbce02abc117a
+301	452	8115386344542340	CMakeFiles/chess.dir/chess_autogen/mocs_compilation.cpp.obj	f2be144ed5764c39
+209	3597	8122060757411457	CMakeFiles/chess.dir/src/main.cpp.obj	fc885a867f9801d4
+8101	8960	8122037071240195	chess.exe	dce31a96bb4c78b
+9	706	8122061406286629	build.ninja	97eedf3b6a1b62b6
+9	706	8122061406216534	C:/Users/Admin/vsc-workspace/cpp_projects/chess/build/cmake_install.cmake	97eedf3b6a1b62b6
+320	1108	8115444201488669	CMakeFiles/chess.dir/src/board.cpp.obj	cb972f448b9aca18
+20	2458	8122061406286629	build.ninja	97eedf3b6a1b62b6
+20	2458	8122061406286629	C:/Users/Admin/vsc-workspace/cpp_projects/chess/build/cmake_install.cmake	97eedf3b6a1b62b6
+39	253	8122061407175670	chess_autogen/timestamp	51abbce02abc117a
+39	253	8122061407175670	chess_autogen/mocs_compilation.cpp	51abbce02abc117a
+39	253	8122061407175670	C:/Users/Admin/vsc-workspace/cpp_projects/chess/build/chess_autogen/timestamp	51abbce02abc117a
+39	253	8122061407175670	C:/Users/Admin/vsc-workspace/cpp_projects/chess/build/chess_autogen/mocs_compilation.cpp	51abbce02abc117a
+254	3738	8122061409319590	CMakeFiles/chess.dir/src/board_view.cpp.obj	f5ab8b64c2bd889f
+3739	4004	8122061444169331	chess.exe	457693cc0166cac7
